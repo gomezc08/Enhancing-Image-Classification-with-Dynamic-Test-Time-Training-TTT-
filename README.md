@@ -45,17 +45,17 @@ Overall, TTT provides a promising technical pathway toward building AI systems c
 # Appendix A
 ## Figure 1
 TTT pipeline for covariate shift utilizing Hugging Face model. Made using Lucidcharts.
-
+![TTT Diagrams - Page 1 (3)](https://github.com/user-attachments/assets/4490a878-07af-4dfd-9871-80f6aeb900ec)
 
 
 # Figure 2
 ## TTT covariate shift pipeline results for a blurry covariate with and without TTT. Made using Microsoft Excel
-
+![Picture1](https://github.com/user-attachments/assets/a2b0c1ad-5261-4a66-b483-5c54dc94c657)
 
 
 # Figure 3
 ## TTT covariate shift pipeline results for a cartoon-style covariate with and without TTT. Made using Microsoft Excel
- 
+![Picture2](https://github.com/user-attachments/assets/791a224f-daed-463f-8292-644a30c42ffc)
 
 
 # Figure 4
@@ -63,9 +63,12 @@ TTT pipeline for covariate shift utilizing Hugging Face model. Made using Lucidc
 
 
 # Figure 5
-## TTT pipeline for TTT on an image transformation network. Made using Lucidcharts.
-
+## TTT pipeline for T
+TT on an image transformation network. Made using Lucidcharts.
+![TTT Diagrams - Page 1 (4)](https://github.com/user-attachments/assets/386a87b0-c47a-40c0-9743-8f53658d79ab)
 
 
 # Figure 6
+
 ## Multiple image transformations results: without TTT, with TTT, and with TTT + false image transformation labels. Made using Microsoft Excel
+![Picture3](https://github.com/user-attachments/assets/db9fea8a-7a60-493c-bf08-56baddeb396e)
