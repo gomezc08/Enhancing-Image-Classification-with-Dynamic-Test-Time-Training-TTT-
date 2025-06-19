@@ -60,6 +60,7 @@ TTT pipeline for covariate shift utilizing Hugging Face model. Made using Lucidc
 
 # Figure 4
 ## With TTT confusion matrix cartoon-style images
+![download (9)](https://github.com/user-attachments/assets/6984a245-c228-4c28-9c8d-4a2dd8e8e21d)
 
 
 # Figure 5
